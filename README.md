@@ -5,15 +5,23 @@
 [![matrix](https://www.sudo.is/readmes/matrix-ben-sudo.is.svg)](https://matrix.to/#/@ben:sudo.is)
 [![BSD-3-Clause-No-Military-License](https://www.sudo.is/readmes/license-BSD-blue.svg)](LICENSE)
 
-![](https://www.sudo.is/avatars/green_fade.png)
+Where to find me:
 
+* website: [`www.sudo.is`](https://www.sudo.is)
+  * docs and notes: [`www.sudo.is/docs`](https://www.sudo.is/docs)
+* git: [`git.sudo.is/ben`](https://git.sudo.is/ben)
+* github: [`github.com/benediktkr`](https://github.com/benediktkr)
+* contact
+  * matrix: [`@ben:sudo.is`](https://matrix.to/#/@ben:sudo.is)
+* CV: [`cv1.pdf`](https://www.sudo.is/cv1.pdf)
 
-## Info
+## Work
 
-|        | link                                                     |
-|--------|----------------------------------------------------------|
-| web    | [`www.sudo.is`](https://www.sudo.is)                     |
-| git    | [`git.sudo.is/ben/`](https://git.sudo.is/ben)            |
-| github | [`github.com/benediktkr`](https://github.com/benediktkr) |
-| matrix | [`@ben:sudo.is`](https://matrix.to/#/@ben:sudo.is)       |
-| job    | Lead Devops Engineer at [Care.com](https://www.care.com) |
+I work on the Devops team at [Care.com](https://www.care.com) as a Lead Devops Engineer.
+
+## Git
+
+The git repos for my projects are hosted on my [Gitea](https://gitea.org) instance
+[`git.sudo.is`](https://www.git.sudo.is), but are also mirrored to my [Github :github: `@benediktkr`](https://www.github.com/beneditktkr).
+
+Pull requests can be submitted to either the mirrors on Github or the upstream repos on [`git.sudo.is`](https://git.sudo.is).
