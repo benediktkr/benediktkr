@@ -21,7 +21,7 @@ I work on the Devops team at [Care.com](https://www.care.com) as a Lead Devops E
 
 ## Repos
 
- * [`dotfiles`](dotfiles): my dotfiles
+ * [`dotfiles`](./dotfiles): my dotfiles
 
 The git repos for my projects are hosted on my [Gitea](https://www.gitea.com) instance
 [`git.sudo.is`](https://git.sudo.is), but are also mirrored to my [Github :github: `@benediktkr`](https://www.github.com/benediktkr).
