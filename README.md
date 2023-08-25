@@ -21,7 +21,11 @@ I work on the Devops team at [Care.com](https://www.care.com) as a Lead Devops E
 
 ## Repos
 
- * [`dotfiles`](./dotfiles): my dotfiles
+ * [`infra`](https://git.sudo.is/ben/infra): the ansible for my infra
+ * [`dotfiles`](https://git.sudo.is/ben/dotfiles): my dotfiles
+ * [`builds`](https://git.sudo.is/ben/builds): building various projects, includes links and submodules to builds that have their own repos
+ * [`notflixbot`](https://git.sudo.is/ben/notflixbot): a matrix chat bot
+
 
 The git repos for my projects are hosted on my [Gitea](https://www.gitea.com) instance
 [`git.sudo.is`](https://git.sudo.is), but are also mirrored to my [Github :github: `@benediktkr`](https://www.github.com/benediktkr).
