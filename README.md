@@ -1,4 +1,4 @@
-# ben
+# Ben
 
 [![Git](https://www.sudo.is/readmes/git.sudo.is-ben.svg)](https://git.sudo.is/ben)
 [![GitHub](https://www.sudo.is/readmes/github-benediktkr.svg)](https://github.com/benediktkr)
@@ -26,5 +26,3 @@ I work on the DevOps team at [Care.com](https://www.care.com) as a Lead Devops E
  * [`dotfiles`](https://git.sudo.is/ben/dotfiles): My dotfiles.
 
 A lot is a work in progress?
-
-
