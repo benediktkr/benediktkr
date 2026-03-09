@@ -14,7 +14,7 @@ Where to find me:
   - Github: [`benediktkr`](https://github.com/benediktkr)
 - Matrix: [`@ben:sudo.is`](https://matrix.to/#/@ben:sudo.is)
 - E-mail: helloworld `[at]` sudo `[dot]` is
-* CV: [`cv1.pdf`](https://www.sudo.is/cv1.pdf)
+- CV: [`cv1.pdf`](https://www.sudo.is/cv1.pdf)
 
 ## Work
 
