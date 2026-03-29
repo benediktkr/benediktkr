@@ -18,7 +18,7 @@ Where to find me:
 
 ## Work
 
-I work on the DevOps team at [Care.com](https://www.care.com) as a Lead Devops Engineer.
+Open to work.
 
 ## Repositories
 
